@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pathakvivek7865
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning software development
+- 🌱 I’m always learning
 
 <!---
 pathakvivek7865/pathakvivek7865 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
